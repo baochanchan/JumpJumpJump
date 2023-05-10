@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1680957000 source:c:\users\trann\documents\gamegunga\src\comonfunc.cpp
+	"ComonFunc.h"
+
+1680959276 c:\users\trann\documents\gamegunga\include\comonfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1681049432 source:c:\users\trann\documents\gamegunga\src\mainobject.cpp
+	"MainObject.h"
+
+1681047681 c:\users\trann\documents\gamegunga\include\mainobject.h
+	<vector>
+	"ComonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1680957975 c:\users\trann\documents\gamegunga\include\baseobject.h
+	"ComonFunc.h"
+
+1681046718 source:c:\users\trann\documents\gamegunga\main.cpp
+	"ComonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+
+1680957975 c:\users\trann\documents\gamegunga\include\game_map.h
+	"ComonFunc.h"
+	"BaseObject.h"
+
+1680957975 source:c:\users\trann\documents\gamegunga\src\game_map.cpp
+	"game_map.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1680957975 source:c:\users\trann\documents\gamegunga\src\baseobject.cpp
+	"BaseObject.h"
+
+1680957975 source:c:\users\trann\documents\gamegunga\src\imptimer.cpp
+	"ImpTimer.h"
+
+1680957975 c:\users\trann\documents\gamegunga\include\imptimer.h
+	"ComonFunc.h"
+
+1681050393 c:\users\trann\documents\gamegunga\include\bulletobject.h
+	"BaseObject.h"
+	"ComonFunc.h"
+
+1681049443 source:c:\users\trann\documents\gamegunga\src\bulletobject.cpp
+	"BulletObject.h"
+
+1680957975 source:c:\users\trann\documents\gunandjump\src\baseobject.cpp
+	"BaseObject.h"
+
+1680957975 c:\users\trann\documents\gunandjump\include\baseobject.h
+	"ComonFunc.h"
+
+1682915453 c:\users\trann\documents\gunandjump\include\comonfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1683349955 source:c:\users\trann\documents\gunandjump\src\bulletobject.cpp
+	"BulletObject.h"
+
+1683349955 c:\users\trann\documents\gunandjump\include\bulletobject.h
+	"BaseObject.h"
+	"ComonFunc.h"
+
+1680957000 source:c:\users\trann\documents\gunandjump\src\comonfunc.cpp
+	"ComonFunc.h"
+
+1680957975 source:c:\users\trann\documents\gunandjump\src\game_map.cpp
+	"game_map.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1680957975 c:\users\trann\documents\gunandjump\include\game_map.h
+	"ComonFunc.h"
+	"BaseObject.h"
+
+1680957975 source:c:\users\trann\documents\gunandjump\src\imptimer.cpp
+	"ImpTimer.h"
+
+1680957975 c:\users\trann\documents\gunandjump\include\imptimer.h
+	"ComonFunc.h"
+
+1681051604 source:c:\users\trann\documents\gunandjump\main.cpp
+	"ComonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+
+1683275012 c:\users\trann\documents\gunandjump\include\mainobject.h
+	<vector>
+	"ComonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1683349939 source:c:\users\trann\documents\gunandjump\src\mainobject.cpp
+	"MainObject.h"
+
+1683701536 source:c:\users\trann\documents\gun n jump test code\main.cpp
+	"ComonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"TextObject.h"
+	"Health.h"
+
+1683701446 c:\users\trann\documents\gun n jump test code\include\comonfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+
+1680957975 c:\users\trann\documents\gun n jump test code\include\baseobject.h
+	"ComonFunc.h"
+
+1680957975 c:\users\trann\documents\gun n jump test code\include\game_map.h
+	"ComonFunc.h"
+	"BaseObject.h"
+
+1683701612 c:\users\trann\documents\gun n jump test code\include\mainobject.h
+	<vector>
+	"ComonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1683669912 c:\users\trann\documents\gun n jump test code\include\bulletobject.h
+	"BaseObject.h"
+	"ComonFunc.h"
+
+1680957975 c:\users\trann\documents\gun n jump test code\include\imptimer.h
+	"ComonFunc.h"
+
+1680957975 source:c:\users\trann\documents\gun n jump test code\src\baseobject.cpp
+	"BaseObject.h"
+
+1683669912 source:c:\users\trann\documents\gun n jump test code\src\bulletobject.cpp
+	"BulletObject.h"
+
+1683701446 source:c:\users\trann\documents\gun n jump test code\src\comonfunc.cpp
+	"ComonFunc.h"
+
+1680957975 source:c:\users\trann\documents\gun n jump test code\src\game_map.cpp
+	"game_map.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1680957975 source:c:\users\trann\documents\gun n jump test code\src\imptimer.cpp
+	"ImpTimer.h"
+
+1683698092 source:c:\users\trann\documents\gun n jump test code\src\mainobject.cpp
+	"MainObject.h"
+
+1683698092 source:c:\users\trann\documents\gun n jump test code\src\threatsobject.cpp
+	"ThreatsObject.h"
+	"ComonFunc.h"
+
+1683681611 c:\users\trann\documents\gun n jump test code\include\threatsobject.h
+	"ComonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1683690045 source:c:\users\trann\documents\gun n jump test code\src\textobject.cpp
+	"TextObject.h"
+
+1683690045 c:\users\trann\documents\gun n jump test code\include\textobject.h
+	"ComonFunc.h"
+
+1683700602 source:c:\users\trann\documents\gun n jump test code\src\health.cpp
+
+1683700609 c:\users\trann\documents\gun n jump test code\include\health.h
+
